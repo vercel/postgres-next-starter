@@ -20,7 +20,7 @@
     "drizzle-orm": "^0.36.4",
     "drizzle-seed": "^0.1.2",
     "lucide-react": "^0.465.0",
-    "next": "15.0.4-canary.36",
+    "next": "^15.6.0-canary.58",
     "postgres": "^3.4.5",
     "react": "19.0.0-rc-2d16326d-20240930",
     "react-dom": "19.0.0-rc-2d16326d-20240930",
