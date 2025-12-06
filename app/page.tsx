@@ -1,8 +1,7 @@
 import { getTodos } from '@/lib/db/queries';
 import TodoList from './todo-list';
 
-// This will be replaced by 'use cache' soon
-export const dynamic = 'force-static';
+export const dynamic = 'force-dynamic';
 
 export default async function Home() {
   const todos = await getTodos();
